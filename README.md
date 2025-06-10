@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satyaswarup Panda
-- 👀 I’m interested in ...Technology related to electronics and coding special in Ebedded system and IoT
+- 👀 I’m interested in ...Technology related to electronics and coding special in Embedded system and IoT
 - 🌱 I’m currently learning ...Btech Electrical Engineering
 - 💞️ I’m looking to collaborate on ...IoT Projects
 - 📫 How to reach me ...9776942415, satyaswaruppanda2004@gmail.com , 
